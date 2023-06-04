@@ -1,0 +1,3 @@
+name: MishaChunksCleaner
+version: '1.0'
+main: falos3.falos5.mishachunkscleaner.MishaChunksCleaner
